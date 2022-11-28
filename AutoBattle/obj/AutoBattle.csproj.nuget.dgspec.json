@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezio.filho\\source\\repos\\AutoBattle\\AutoBattle\\AutoBattle.csproj": {}
+    "C:\\UnityProjetos\\_Github Projects\\AutoBattle\\AutoBattle\\AutoBattle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezio.filho\\source\\repos\\AutoBattle\\AutoBattle\\AutoBattle.csproj": {
+    "C:\\UnityProjetos\\_Github Projects\\AutoBattle\\AutoBattle\\AutoBattle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezio.filho\\source\\repos\\AutoBattle\\AutoBattle\\AutoBattle.csproj",
+        "projectUniqueName": "C:\\UnityProjetos\\_Github Projects\\AutoBattle\\AutoBattle\\AutoBattle.csproj",
         "projectName": "AutoBattle",
-        "projectPath": "C:\\Users\\ezio.filho\\source\\repos\\AutoBattle\\AutoBattle\\AutoBattle.csproj",
-        "packagesPath": "C:\\Users\\ezio.filho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezio.filho\\source\\repos\\AutoBattle\\AutoBattle\\obj\\",
+        "projectPath": "C:\\UnityProjetos\\_Github Projects\\AutoBattle\\AutoBattle\\AutoBattle.csproj",
+        "packagesPath": "C:\\Users\\nopka\\.nuget\\packages\\",
+        "outputPath": "C:\\UnityProjetos\\_Github Projects\\AutoBattle\\AutoBattle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ezio.filho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nopka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

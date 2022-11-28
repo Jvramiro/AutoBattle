@@ -1,0 +1,16 @@
+Primeiro arrumei os erros de adição de GridBox na lista de Grids, tais erros que comprometiam rodar o código.
+Organizei ordens de funções ao iniciar o jogo.
+Descobri problemas na função de "andar", primeiro arrumando retornos, verificações inexistentes, ordem de scripts errada e atribuição de booleanas erradas.
+Resolvi o problema para checar se existe algum jogador próximo trocando a verificação de condições com "e" para "ou".
+Testei diversos "WriteLines" para descobrir os problemas na função de gerar dano e colocando a randomização correta e apliquei o dano de forma correta.
+Deixei o primeiro jogador a atacar ser de forma aleatória e melhorei as mensagens de retorno para deixar o jogador saber a vida dos jogadores.
+Adicionei para o jogador escolher o tamanho de Grid de forma que o valor deve ser Inteiro e o jogador poderá escolher o valor do eixo X e Y.
+Mudei a função de Dano para uma função em que atualiza a vida, aumentando ou diminuindo o valor e impedindo do valor ser negativo.
+Organizei e resolvi problemas referentes ao "HandleTurn" para verificar corretamente se o jogo acabou ou se deve continuar. Nesta função também adicionei uma chamada para uma nova função que mostra na tela quando o jogo acabar com o vencedor e finaliza o programa.
+Adicionei funções exclusivas para cada classe:
+- "Heal": Cura um valor aleatório com base no dano base;
+- "IncreaseAttack": Deixa de atacar para aumentar o dano base.
+- "FocusedAttack": Realiza um ataca certeiro equivalente a metade do dano base.
+- "RandomArrows": Atira flechas para cima atacando os dois personagens.
+Deixei de forma aleatória para que cada jogador usar sua habilidade e chamei a função correta de sua habilidade baseada na classe.
+Impedi o jogador de criar uma Grid mínima ou muito grande.

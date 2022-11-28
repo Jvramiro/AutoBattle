@@ -11,3 +11,31 @@ C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\A
 C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.pdb
 C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.genruntimeconfig.cache
 C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.csprojAssemblyReference.cache
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.exe
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.deps.json
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.runtimeconfig.json
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.runtimeconfig.dev.json
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.dll
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.pdb
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.csproj.AssemblyReference.cache
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.AssemblyInfoInputs.cache
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.AssemblyInfo.cs
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.csproj.CoreCompileInputs.cache
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.dll
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.pdb
+C:\Users\nopka\Documents\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.genruntimeconfig.cache
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.exe
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.deps.json
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.runtimeconfig.json
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.runtimeconfig.dev.json
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.dll
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.pdb
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.csproj.AssemblyReference.cache
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.AssemblyInfoInputs.cache
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.AssemblyInfo.cs
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.csproj.CoreCompileInputs.cache
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.dll
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.pdb
+C:\UnityProjetos\_Github Projects\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.genruntimeconfig.cache
